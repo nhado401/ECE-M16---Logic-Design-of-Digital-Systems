@@ -1,4 +1,4 @@
-# ECE-M16---Logic-Design-of-Digital-Systems
+# ECE-M16---Finite State Machine
 This is the second design project involving to Finite State Machine
 The design is about Sequential Control Logic in which we implement verilog code for a simple electronic kitchen appliance: a bread machine.
 
